@@ -2,7 +2,7 @@
 #define ALGORITMLAR
 #include <bits/stdc++.h>
 
-
+// Make by Esanov Otabek 
 //almashtirish funksiyasi
 void swap(int *xp, int *yp)
 {
